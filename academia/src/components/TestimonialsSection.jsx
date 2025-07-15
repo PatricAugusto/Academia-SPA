@@ -101,19 +101,19 @@ function TestimonialsSection({ id }) {
       quote: "Nunca pensei que me apaixonaria por treinar! A Academia Fitness mudou minha vida e me ajudou a alcançar resultados que eu não imaginava.",
       author: "Ana Clara S.",
       role: "Membro há 2 anos",
-      avatar: "https://via.placeholder.com/70/FF7B00/FFFFFF?text=A" // Imagem placeholder com a nova cor
+      avatar: "../assets/ana.jpg" 
     },
     {
       quote: "Os profissionais são incríveis e o ambiente é muito acolhedor. Recomendo para quem busca saúde e bem-estar em um só lugar.",
       author: "João Paulo G.",
       role: "Membro há 1 ano",
-      avatar: "https://via.placeholder.com/70/222222/FFFFFF?text=J" // Imagem placeholder com a nova cor
+      avatar: "../assets/joao.jpg"
     },
     {
       quote: "As aulas de grupo são super dinâmicas e divertidas! Sinto-me sempre motivada a dar o meu melhor. A melhor academia que já frequentei.",
       author: "Mariana R.",
       role: "Membro há 6 meses",
-      avatar: "https://via.placeholder.com/70/E44D26/FFFFFF?text=M" // Imagem placeholder com a nova cor
+      avatar: "../assets/mariana.jpg"
     },
   ];
 

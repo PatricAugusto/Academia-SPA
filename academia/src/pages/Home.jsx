@@ -8,7 +8,7 @@ import PricingSection from '../components/PricingSection';
 import ContactSection from '../components/ContactSection';
 
 const HeroSection = styled.section`
-  background: linear-gradient(to right, #E44D26, #FF7B00);
+  background: url("../../src/assets/home.jpg");
   color: white;
   padding: 4rem 2rem;
   text-align: center;
